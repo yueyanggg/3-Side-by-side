@@ -1,0 +1,6 @@
+{
+  "name": "Shopee UX Benchmark",
+  "description": "Side-by-side UI/UX comparison of Original Replica, Intuitive Accounts (V1), and Nielsen's 10 Heuristics (V2).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
